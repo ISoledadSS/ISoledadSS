@@ -23,4 +23,4 @@ I work in financial operations at an investment advisory firm, where I design an
 ### Currently
 
 - Studying for the CFA Program
-- Master's in IT at INFOTEC
+- Master's in Data Science at INFOTEC
