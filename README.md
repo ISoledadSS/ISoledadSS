@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm Isaac Soledad Martinez — Financial Economist & Data Scientist building tools at the intersection of finance and technology.
+I'm Isaac Soledad — Financial Economist & Data Scientist building tools at the intersection of finance and technology.
 
 ### What I do
 
